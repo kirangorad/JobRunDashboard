@@ -16,4 +16,5 @@ This README would provide steps necessary to get application up and running.
 
 ### Steps to setup UI Application ###
 
-* Go to JobRunDashboard/Public and open reports.html file
+* Go to JobRunDashboard/Public and open reports.html file or http://localhost:3000/reports.html
+
